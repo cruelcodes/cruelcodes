@@ -13,6 +13,21 @@ I'm a passionate developer on a journey to build cool things with code! I studie
 - **Tools:** Node.js, React, MongoDB, Puppeteer
 - **Other Interests:** Algorithms, Data Structures, LeetCode Challenges
 
+## 📊 GitHub Stats
+
+![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cruelcodes&show_icons=true&theme=radical)
+
+## 🏆 GitHub Contributions Graph
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cruelcodes&theme=radical)
+
+## ⚡ GitHub Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=cruelcodes&theme=github)
+
+## 🏅 GitHub Progress
+
+![GitHub Progress](https://img.shields.io/badge/contributions-450%2F500-ff69b4)
+
 ## Connect With Me
 Feel free to reach out to me on any of my social profiles:
 
