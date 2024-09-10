@@ -21,6 +21,11 @@ I'm a passionate developer on a journey to build cool things with code! I studie
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cruelcodes&theme=radical)
 
+## 🔥 Languages Used
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cruelcodes&layout=compact&theme=radical)
+
+
 
 
 ## Connect With Me
