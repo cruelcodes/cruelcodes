@@ -21,8 +21,6 @@ I'm a passionate developer on a journey to build cool things with code! I studie
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cruelcodes&theme=radical)
 
-## ⚡ GitHub Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=cruelcodes&theme=github)
 
 
 ## Connect With Me
